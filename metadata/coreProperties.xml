@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><cp:category>MATLAB App</cp:category><dcterms:created xsi:type="dcterms:W3CDTF">2013-03-14T13:20:26Z</dcterms:created><dc:creator>William Messner and Richard Hill</dc:creator><dc:description>This app was developed as part of web-based control system tutorials available at http://ctms.engin.umich.edu
+
+The purpose of this app is to allow the user to view an animation of the ball and beam system with the step disturbance response plot. This allows the user to see the correlation between the plot and the system's physical response.
+
+The animation and the app are based on the Ball &amp; Beam: State-Space Controller Design example page of controls tutorials:
+http://ctms.engin.umich.edu/CTMS/index.php?example=BallBeam&amp;section=ControlStateSpace
+
+This method was used because we can easily return the ball position and beam angle as well as their respective velocities. For more information on the system model please refer to the Ball &amp; Beam: System Modeling page of controls tutorials:
+http://ctms.engin.umich.edu/CTMS/index.php?example=BallBeam&amp;section=SystemModeling</dc:description><dc:identifier>debe66f4-6265-416d-adab-8b82aece4987</dc:identifier><dc:title>Ball &amp; Beam Control</dc:title><cp:version>1.0</cp:version></cp:coreProperties>
